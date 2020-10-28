@@ -34,7 +34,7 @@ The project directory structure is pretty much set up for us already. We have a 
 Whenever the tutorial says to 'run the specs', you should type the following into your command line:
 
 ```bash
-learn spec/01_book_spec.rb
+
 ```
 
 This will run only the tests that we are interested in completing for this tutorial.
